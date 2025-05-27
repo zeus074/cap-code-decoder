@@ -1,6 +1,8 @@
-# Welcome to your Lovable project
+# Capacitor Code Decoder
 
 ## Project info
+
+A software that allows you to easily decode capacitor values
 
 **URL**: https://lovable.dev/projects/b8072cb0-209d-4ebd-a63a-7a913bf5c1f8
 
