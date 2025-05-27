@@ -24,7 +24,4 @@ export default defineConfig(({ mode }) => ({
     },
   },
   base: "./",
-  define: {
-    __WS_TOKEN__: JSON.stringify(process.env.WS_TOKEN || "default_token"),
-  },
 }));
