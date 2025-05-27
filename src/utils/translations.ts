@@ -28,7 +28,10 @@ export const translations = {
     blue: "Blu",
     violet: "Viola",
     grey: "Grigio",
-    white: "Bianco"
+    white: "Bianco",
+    language: "Italiano",
+    darkMode: "Modalità Scura",
+    lightMode: "Modalità Chiara"
   },
   en: {
     title: "Capacitor Calculator",
@@ -58,6 +61,9 @@ export const translations = {
     blue: "Blue",
     violet: "Violet",
     grey: "Grey",
-    white: "White"
+    white: "White",
+    language: "English",
+    darkMode: "Dark Mode",
+    lightMode: "Light Mode"
   }
 };
